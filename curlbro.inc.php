@@ -38,7 +38,7 @@ class curlbro {
    }
    public function __construct($useragent='',$usedom=true) {
       if ($useragent=='') {
-         $this->useragent = 'curlbro';
+         $this->useragent = 'curlbro http://github.com/katmore/curlbro';
       } else {
          $this->useragent = $useragent;
       }
