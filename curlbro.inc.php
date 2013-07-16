@@ -2,7 +2,8 @@
 /*
  * Purpose: curl convenience class
  *    loads everything into DOM and SimpleXML
- *    has xpath query
+ *    has xpath query method
+ *    facilitates use of cookies
  */
 
 class curlbro {
