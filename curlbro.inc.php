@@ -1,5 +1,8 @@
 <?php
 /*
+ * For Documentation and Latest Version:
+ *    https://github.com/katmore/curlbro
+ * 
  * Purpose: curl convenience class
  *    loads everything into DOM and SimpleXML
  *    has xpath query method
